@@ -1,7 +1,7 @@
 
 
 <h1> AasPaas</h1>
-Welcome to Local Seva, your one-stop platform for local services. Whether you need a handyman, a plumber, a maid, or any other service, Local Seva connects you with trusted professionals in your area. With our easy-to-use interface, you can quickly find and book the services you need, making your life easier and more convenient.
+Welcome to AasPaas, your one-stop platform for local services. Whether you need a handyman, a plumber, a maid, or any other service, Local Seva connects you with trusted professionals in your area. With our easy-to-use interface, you can quickly find and book the services you need, making your life easier and more convenient.
 <br>
 
 <h2>Features 🎯</h2>
@@ -24,12 +24,12 @@ Welcome to Local Seva, your one-stop platform for local services. Whether you ne
 </ul>
 
 <h2>Architecture</h2>
-Local Seva follows a client-server architecture. The client-side is built using React.js, providing a seamless and interactive user experience. The server-side is powered by Node.js and Express, handling requests and managing data stored in the MongoDB database. The communication between the client and server is facilitated through RESTful APIs.
+AasPaas follows a client-server architecture. The client-side is built using React.js, providing a seamless and interactive user experience. The server-side is powered by Node.js and Express, handling requests and managing data stored in the MongoDB database. The communication between the client and server is facilitated through RESTful APIs.
 <br>
 <br>
 <h1>🚀 Getting Started</h1>
 To get started, download the zip file of the repository. Or use <br>
-<code>git clone https://github.com/sakshgupta/Local_Seva.git</code><br>
+<code>git clone https://github.com/pratyaksh009/AasPaas.git</code><br>
 Then navigate to the project's root directory. The project consists of three folders: <code>client</code>, and <code>server</code>.
 <br>
 Before starting the servers, make sure to install the dependencies by running the command: <code>npm install</code> in all two folders.
@@ -55,7 +55,7 @@ For the server-side, start the server by running the command: <code>npm run dev<
 <br>
 
 <h1>👉 How to use the site</h1>
-Local Seva provides a user-friendly interface that allows you to easily navigate and access various features. Here's a brief guide on how to use the platform:
+AasPaas provides a user-friendly interface that allows you to easily navigate and access various features. Here's a brief guide on how to use the platform:
 
 <ul>
   <li><strong>Browse Services:</strong> On the homepage, you'll find a list of available services. Scroll through the list or use the search bar to find specific services. Click on a service to view more details.</li>
