@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="client/public/logo.png">
-</div>
 
-<h1> Local Seva</h1>
+
+<h1> AasPaas</h1>
 Welcome to Local Seva, your one-stop platform for local services. Whether you need a handyman, a plumber, a maid, or any other service, Local Seva connects you with trusted professionals in your area. With our easy-to-use interface, you can quickly find and book the services you need, making your life easier and more convenient.
 <br>
 
@@ -71,32 +69,7 @@ Local Seva provides a user-friendly interface that allows you to easily navigate
 </ul>
 
 <br>
-<h1>👥 Our Team</h1>
-Our team consists of:
 
-<ul>
-  <li><strong>Saksham Gupta:</strong>
-  Connect with Saksham on 
-  <a href="https://www.linkedin.com/in/sakshguptavit/">
-  LinkedIn
-  </a> and 
-  <a href="https://github.com/sakshgupta">
-  GitHub
-  </a>, or visit his 
-  <a href="https://sakshgupta.vercel.app/">
-  personal website
-  </a>.
-  </li>
-  <li><strong>Amaan Khan:</strong>
-  Connect with Saksham on 
-  <a href="https://www.linkedin.com/in/amaankhanak/">
-  LinkedIn
-  </a> and 
-  <a href="https://github.com/amaankhanak">
-  GitHub
-  </li>
-</ul>
-<br>
 
 <h1>🙌 Contributions</h1>
 We welcome contributions to our project. If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
