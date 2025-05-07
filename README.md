@@ -1,7 +1,7 @@
 
 
 <h1> AasPaas</h1>
-Welcome to AasPaas, your one-stop platform for local services. Whether you need a handyman, a plumber, a maid, or any other service, Local Seva connects you with trusted professionals in your area. With our easy-to-use interface, you can quickly find and book the services you need, making your life easier and more convenient.
+Welcome to AasPaas, your one-stop platform for local services. Whether you need a handyman, a plumber, a maid, or any other service, AaasPaas connects you with trusted professionals in your area. With our easy-to-use interface, you can quickly find and book the services you need, making your life easier and more convenient.
 <br>
 
 <h2>Features 🎯</h2>
